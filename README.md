@@ -41,7 +41,3 @@ Visualization for small dataset and large dataset:
 
 ## Reference by
 [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)<br>
-
-# PointNet2-GeometricFeatures-Facade
-# PointNet2-GeometricFeatures-Facade
-# PointNet2-GeometricFeatures-Facade
