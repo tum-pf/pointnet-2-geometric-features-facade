@@ -33,11 +33,11 @@ Visualization for small dataset and large dataset:
 ## Classification
 
 ### Performance
-| Model | Small Dataset<br>(xyz only) | Large Dataset<br>(xyz only) | Small Dataset<br>(xyz&9 geometric features) | Small Dataset<br>(xyz&6 geometric features) |
+| Model | Small Dataset<br>(xyz only) | Large Dataset<br>(xyz only) | Small Dataset<br>(xyz&9 geometric features) | Small Dataset<br>(xyz&6 geometric features) | Large Dataset<br>(xyz&9 geometric features) | Large Dataset<br>(xyz&6 geometric features) |
 |--|--|--|--|--|
-| Random Forest |  33.2%| **67.3%** | 49.7% | \ |
-| PointNet | 39.6%| \ | \ | 52.1% |
-| PointNet++ |  50.5% | **75.4%** | 39.2% | 54.4% |
+| Random Forest |  33.2%| 68.4% | 49.7% | 49.1 | 66.5% | 64.2%|
+| PointNet | 39.6% | 69.1% | 55.8% | 52.1% | 78.5% | 85.5% |
+| PointNet++ |  54.8% | 83.1% | 39.2% | 62.1% | 84.7% | **87.5** |
 
 ## Reference by
 [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)<br>
