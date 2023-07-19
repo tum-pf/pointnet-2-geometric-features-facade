@@ -20,8 +20,6 @@ By comparing classification results with and without geometric features, we can 
 
 [PointNet2_xyznpoc_colab.ipynb](PointNet2_xyznpoc_colab.ipynb) is also for the PointNet++, and this version is for Google Colab. The input data is xyz coordinates and geometric features as well.
 
-[model](/models) contains all the models that have been trained already.
-
 ## Visuals
 Visualization for small dataset and large dataset:
 
